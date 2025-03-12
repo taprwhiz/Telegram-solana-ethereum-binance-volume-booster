@@ -1,0 +1,21 @@
+[
+    {
+        "userId": "6636377950",
+        "index": 0,
+        "privateKey": "f32f6dbbee6eb64709eeaf22a11f016c:3c3012caadee58bbffc45d834dc530227e5df814b3971b5e2decc85d49547a0f197268acbfb579b90f6ed5f1dacd853c5f5a18b35862a7158e8a9d726a3f333a355f3a49a332074d6a2016ef5e1bb6b123ab43a09dda0a8a13a63b8bab833a67",
+        "pubkey": "EVYp8iq1BoPACa5FnGXwGgUqP2uZDT2Vt4EYdWCqKJva",
+        "tokenMint": "Faf89929Ni9fbg4gmVZTca7eW6NFg877Jqn6MizT3Gvw",
+        "poolId": "EskpS4o6sWFAmf7w8PDwWJQfx8LRU7hHMjPxCcyX4Eq1",
+        "dex": "raydium",
+        "holderVersion": true,
+        "speed": 25,
+        "time": 1184,
+        "pairs": 0,
+        "boostingAmount": 10.132000000000003,
+        "totalPairs": 1000,
+        "status": false,
+        "isBoosting": true,
+        "process": true,
+        "label": ""
+    }
+]

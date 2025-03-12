@@ -1,0 +1,8 @@
+node_modules
+
+.env
+test.json
+
+./boost/solana/utils/solBoosting.json
+./boost/solana/utils/solWallets.json
+./utils/ethBoosting.json
